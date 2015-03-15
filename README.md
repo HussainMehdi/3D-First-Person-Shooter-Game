@@ -2,7 +2,7 @@
 A C++ FPS game build with
 
 -> Irrlicht
--> Irrklang
+-> Irrklang (Sound)
 -> Zoidcom (Networking not completed)
 -> VS2012 Project
   
